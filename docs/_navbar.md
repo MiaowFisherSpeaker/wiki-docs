@@ -1,6 +1,7 @@
 <!-- _navbar.md -->
 
-* [主页](/)
-* [data_science](data_science/)
+* [🏠 Home](/)
+* [📊 Data Science](data_science/)
   * [Kaggle](data_science/Kaggle/)
-* [math](math/)
+* [🔧 Setup](SETUP.md)
+* [📝 GitHub](https://github.com/MiaowFisherSpeaker/wiki-docs)

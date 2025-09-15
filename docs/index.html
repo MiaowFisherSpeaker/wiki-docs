@@ -2,21 +2,32 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>Wiki Docs - MiaowFisherSpeaker</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
+  <meta name="description" content="Personal wiki and documentation site powered by Docsify">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
-  <div id="app">"Loading...😝第一次加载会很慢"</div>
+  <div id="app">Loading... 📚 Preparing your documentation</div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: '',
+      name: 'Wiki Docs',
+      repo: 'https://github.com/MiaowFisherSpeaker/wiki-docs',
       loadSidebar: true,
-      subMaxLevel:3,
-      loadNavbar:true,
+      subMaxLevel: 3,
+      loadNavbar: true,
+      coverpage: false,
+      auto2top: true,
+      maxLevel: 4,
+      relativePath: true,
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: 'Search...',
+        noData: 'No Results!',
+        depth: 4
+      }
     }
     if (typeof navigator.serviceWorker !== 'undefined') {
       navigator.serviceWorker.register('sw.js')
@@ -24,6 +35,9 @@
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  
+  <!-- Search plugin -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 
   <!-- 这里是数学公式插件  docsify-katex -->
   <script src="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
