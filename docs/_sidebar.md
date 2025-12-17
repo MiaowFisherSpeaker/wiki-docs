@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
-* [首页](/)
-* [RL+Agent](/RLplusAgent)
+* [知识库首页](/)
+* [RL+Agent](RLplusAgent/)
