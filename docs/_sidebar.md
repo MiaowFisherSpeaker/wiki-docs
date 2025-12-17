@@ -1,6 +1,4 @@
 <!-- docs/_sidebar.md -->
 
-* [🏠 Home](/)
-* [📊 Data Science](data_science/)
-  * [Kaggle](data_science/Kaggle/)
-* [🔧 Setup Guide](SETUP.md)
+* [首页](/)
+* [RL+Agent](/RLplusAgent)
