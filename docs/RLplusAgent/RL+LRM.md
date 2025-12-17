@@ -1,14 +1,24 @@
-:::info
 **修改日志：**
 
-[agent ai with RL_07.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960431003-066eb6ff-ad4e-4890-bb53-b1cdbd85db0f.png)[agent ai with RL_08.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960402779-a0aa64ff-3fcb-4ff6-856d-0e6c82ffa53d.png)[agent ai with RL_09.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960405573-8070d697-560d-421f-9245-04504aa2cd26.png)[agent ai with RL_10.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960443842-a2c9b577-7bdc-49a8-9a03-c506ade9167f.png)[agent ai with RL_11.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960402966-35bb0579-604b-4f45-a26d-96f89625171f.png)[agent ai with RL_12.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960428957-0d53ebc1-3f69-4e07-b7bf-54673d4a19fd.png)[agent ai with RL_13.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960425628-4817a89b-ff10-4a0b-b0fb-27886ae8ae7b.png)[agent ai with RL_14.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960439197-572ae63f-70b4-4ff5-b83c-1a0b94b6fe7a.png)[agent ai with RL_15.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960467970-3b210da3-f31c-43d2-9df1-3ce16cbd714c.png)[agent ai with RL_16.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960459987-bb152d60-2d5e-43ac-9682-566355922db7.png)[agent ai with RL_17.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960463856-d98a5731-3643-4dd7-9fad-51278c160ad8.png)[agent ai with RL_18.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960466748-2859c992-dc07-4010-83cd-14be4c9604e5.png)[agent ai with RL_19.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960466692-7781d7f8-f4e3-472a-99ee-c306f1c242fd.png)
+* <font style="color:#D22D8D;">2025.12.17前 初版从Notion迁移</font>
 
-<font style="color:#D22D8D;">2025.12.17前 初版从Notion迁移</font>
+* <font style="color:#D22D8D;">2025.12.17 16:30 增加预备知识Slides第一页；预备知识部分直接放附件了。</font>
+---
+ppt下载
 
-<font style="color:#D22D8D;">2025.12.17 16:30 增加预备知识Slides第一页；预备知识部分直接放附件了。</font>
-
-:::
-
+* [agent ai with RL_07.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960431003-066eb6ff-ad4e-4890-bb53-b1cdbd85db0f.png)
+* [agent ai with RL_08.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960402779-a0aa64ff-3fcb-4ff6-856d-0e6c82ffa53d.png)
+* [agent ai with RL_09.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960405573-8070d697-560d-421f-9245-04504aa2cd26.png)
+* [agent ai with RL_10.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960443842-a2c9b577-7bdc-49a8-9a03-c506ade9167f.png)
+* [agent ai with RL_11.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960402966-35bb0579-604b-4f45-a26d-96f89625171f.png)
+* [agent ai with RL_12.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960428957-0d53ebc1-3f69-4e07-b7bf-54673d4a19fd.png)
+* [agent ai with RL_13.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960425628-4817a89b-ff10-4a0b-b0fb-27886ae8ae7b.png)
+* [agent ai with RL_14.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960439197-572ae63f-70b4-4ff5-b83c-1a0b94b6fe7a.png)
+* [agent ai with RL_15.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960467970-3b210da3-f31c-43d2-9df1-3ce16cbd714c.png)
+* [agent ai with RL_16.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960459987-bb152d60-2d5e-43ac-9682-566355922db7.png)
+* [agent ai with RL_17.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960463856-d98a5731-3643-4dd7-9fad-51278c160ad8.png)
+* [agent ai with RL_18.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960466748-2859c992-dc07-4010-83cd-14be4c9604e5.png)
+* [agent ai with RL_19.png](https://www.yuque.com/attachments/yuque/0/2025/png/43956489/1765960466692-7781d7f8-f4e3-472a-99ee-c306f1c242fd.png)
 ---
 
 # RL+LRM总结
